@@ -39,5 +39,5 @@ string str3 = "3276868343221";
 
   很显然，报错如下图所示
 
-  ![stoi越界报错](https://github.com/Leaf-G/c-_learning/blob/main/img/2023-01-12%2014-46-48%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?raw=true)
+  ![stoi越界报错](s2i.png)
 
